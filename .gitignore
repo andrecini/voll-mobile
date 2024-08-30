@@ -1,0 +1,32 @@
+# React Native
+
+# Dependencies
+/node_modules/
+/package-lock.json
+/yarn.lock
+/ios/Pods/
+/ios/Podfile.lock
+
+# Project files
+.DS_Store
+/coverage/
+/ios/build/
+/android/.gradle/
+/android/app/build/
+/android/app/release/
+/android/app/debug/
+/android/app/build/
+/android/.idea/
+
+# Android/IntelliJ
+.idea/
+.gradle/
+*.iml
+
+# OS files
+.DS_Store
+.vscode/
+*.swp
+
+# Misc
+.expo/
